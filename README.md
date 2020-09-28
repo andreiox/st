@@ -6,6 +6,7 @@ st is a simple terminal emulator for X which sucks less.
 
 -   [x] Scrollback
 -   [x] Zoom in and out with CTRL and +/-
+-   [x] Gruvbox colorscheme
 
 ## Requirements
 
